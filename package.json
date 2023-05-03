@@ -1,0 +1,22 @@
+{
+  "name": "internship_tasks",
+  "version": "1.0.0",
+  "description": "Intership Task Q1",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohitSinghChauhan/Intern_task_Q1.git"
+  },
+  "author": "Mohit Singh Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohitSinghChauhan/Intern_task_Q1/issues"
+  },
+  "homepage": "https://github.com/MohitSinghChauhan/Intern_task_Q1#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
