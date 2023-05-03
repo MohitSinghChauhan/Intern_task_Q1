@@ -28,5 +28,3 @@ Write an efficient algorithm for the following assumptions:
 * The Input Dictionary will have at least Mon & Sun.
 * The Input Dictionary key is a string within the range `[1970-01-01..2100-01-01]`.
 * Its corresponding value is an integer within the range `[-1,000,000..1,000,000]`.
-
-**Note:** You have to write unit tests in jest and explain.
